@@ -72,13 +72,7 @@ int main()
     return 0;
 }
 
-/*********************************************
 
-FUNCTION TO RETURN GAME STATUS
-1 FOR GAME IS OVER WITH RESULT
--1 FOR GAME IS IN PROGRESS
-O GAME IS OVER AND NO RESULT
- **********************************************/
 
 int checkwin()
 {
